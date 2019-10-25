@@ -1,0 +1,40 @@
+.tick {
+    width: 16px;
+}
+
+body {
+    background: lightblue url("todo.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.head{
+    background-color: bisque;
+    width: 250px;
+    background-position: center;
+    margin: 0 auto;
+    border-radius: 4px;
+    padding: 5% 10%;
+    font-size: 150%;
+}
+
+.center {
+    text-align: center;
+}
+
+.center1{
+    background-color: lightgreen;
+    width: 160px;
+    border-radius: 4px;
+    box-shadow: hsla(0, 0%, 0%, .6) 10px 10px 80px;
+    background-position: center;
+    margin: 50px auto;
+    padding: 1% 2%;
+}
+
+.img{
+    position: initial;
+}
